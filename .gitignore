@@ -1,0 +1,10 @@
+# Toolchains, caches, and local build products
+/.build-tools/
+/MBRemoto-Windows-x64/
+/distribuicao/
+
+# Separate upstream checkout. The distribution includes its own source archive.
+/rustdesk/
+
+# Local design originals
+/*.png
